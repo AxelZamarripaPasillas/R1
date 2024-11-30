@@ -1,7 +1,7 @@
 ## PROGRAMA 5 QUE PERMITE CALCULAR EL ÁREA DE UN TRIÁNGULO
 En este programa, se utiliza la fórmula para calcular el área de un triángulo, que es base * altura / 2. El programa solicita al usuario que ingrese la base y la altura del triángulo, y luego calcula y muestra el área del triángulo.
 ### Explicación Del Programa
-Línea 5:
+# Línea 5:
 print ("Solicita La Base y La Altura De Un Triángulo")
 
 Esta línea utiliza la función print para mostrar un mensaje que solicita al usuario que ingrese la base y la altura del triángulo.
