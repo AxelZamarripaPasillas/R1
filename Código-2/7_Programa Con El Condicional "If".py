@@ -6,5 +6,5 @@ edad = int (input("INGRESA TU EDAD: "))
 
 if edad >=18:
     print("Puede Entrar Al Bar")
-else edad <=17:
+else:
     print("No Puede Entrar Al Bar")
