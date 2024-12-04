@@ -1,4 +1,4 @@
-## PROGRAMA 2. 
+## PROGRAMA 3. 
 Programa que muestra el número de días de la semana.
 ## Explicación Del Programa
 
