@@ -1,4 +1,4 @@
-## PROGRAMA 1.
+## PROGRAMA 2.
 Programa que solicita tu nombre y despues te imprime un saludo personalizado.
 ### Explicación Del Programa
 1) En la linea 5 se solicita al usuario con la función  'input'
