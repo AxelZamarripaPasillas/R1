@@ -1,4 +1,4 @@
-# Programa 3.
+# Programa 4.
 Programa que solicita el nombre de una figura geométrica de tres lados y luego lo muestra en pantalla.
 
 ## Explicación Del Programa: 
