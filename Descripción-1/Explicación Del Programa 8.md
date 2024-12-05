@@ -1,14 +1,14 @@
-# PROGRAMA 8 
+# 8_PROGRAMA QUE PERMTE HACER OPERACIONES BASICAS (+, -, * y /)
 Programa que realiza operaciones aritméticas básicas entre dos números ingresados por el usuario.
 ## Explicación Del Programa:
 
-Línea 4: Esta línea utiliza la función `Input` para solicitar al usuario que ingrese el primer número. La función `int` se utiliza para convertir la entrada del usuario en un número entero.
+Línea 4: Esta línea utiliza la función `Input()` para solicitar al usuario que ingrese el primer número. La función `int()` se utiliza para convertir la entrada del usuario en un número entero.
 
 ```python
 num1 = int(input("Ingresa El Primer Numero:"))
 ```
 
-Línea 5: Esta línea utiliza la función `Input` para solicitar al usuario que ingrese el segundo número. La función `int` se utiliza para convertir la entrada del usuario en un número entero.
+Línea 5: Esta línea utiliza la función `Input()` para solicitar al usuario que ingrese el segundo número. La función `int()` se utiliza para convertir la entrada del usuario en un número entero.
 
 ```python
 num2 = int(input("Ingresa El Segundo Numero:"))
@@ -38,25 +38,25 @@ Línea 9: Esta línea calcula la división de los dos números ingresados por el
 division = num1 / num2
 ```
 
-Línea 11: Esta línea utiliza la función `Print` para mostrar el resultado de la suma. La función `str` se utiliza para convertir el resultado en una cadena de texto que se puede concatenar con el mensaje.
+Línea 11: Esta línea utiliza la función `Print()` para mostrar el resultado de la suma. La función `str` se utiliza para convertir el resultado en una cadena de texto que se puede concatenar con el mensaje.
 
 ```python
 print ("El valor De La Suma Es:"+ str(suma))
 ```
 
-Línea 12: Esta línea utiliza la función `Print` para mostrar el resultado de la resta. La función `str` se utiliza para convertir el resultado en una cadena de texto que se puede concatenar con el mensaje.
+Línea 12: Esta línea utiliza la función `Print()` para mostrar el resultado de la resta. La función `str()` se utiliza para convertir el resultado en una cadena de texto que se puede concatenar con el mensaje.
 
 ```python
 print ("El valor De La Resta Es:"+ str(resta))
 ```
 
-Línea 13: Esta línea utiliza la función `Print` para mostrar el resultado de la multiplicación. La función `str` se utiliza para convertir el resultado en una cadena de texto que se puede concatenar con el mensaje.
+Línea 13: Esta línea utiliza la función `Print()` para mostrar el resultado de la multiplicación. La función `str()` se utiliza para convertir el resultado en una cadena de texto que se puede concatenar con el mensaje.
 
 ```python
 print ("El valor De La Multiplicación Es:"+ str(multiplicacion))
 ```
 
-Línea 14: Esta línea utiliza la función `Print` para mostrar el resultado de la división. La función `str` se utiliza para convertir el resultado en una cadena de texto que se puede concatenar con el mensaje.
+Línea 14: Esta línea utiliza la función `Print()` para mostrar el resultado de la división. La función `str()` se utiliza para convertir el resultado en una cadena de texto que se puede concatenar con el mensaje.
 
 ```python
 print ("El valor De La División Es:"+ str(division))
