@@ -1,4 +1,4 @@
-# 4_PROGRAMA QUE MUESTRA EL NUMERO DE DÍAS DE UNA SEMANA.
+# 4_PROGRAMA QUE MUESTRA EL NOMBRE DE UNA FIGURA DE TRES LADOS
 Programa que solicita el nombre de una figura geométrica de tres lados y luego lo muestra en pantalla.
 
 ## Explicación Del Programa: 
