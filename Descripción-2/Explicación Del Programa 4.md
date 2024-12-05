@@ -1,33 +1,40 @@
-## PROGRAMA QUE CALCULA LOS IMPUESTOS DE UN VALOR
-En este programa, se calculan los impuestos de un valor ingresado por el usuario.
+# PROGRAMA 4 QUE CALCULA LOS IMPUESTOS DE UN VALOR
+Programa que calcula el valor de impuestos sobre un valor ingresado por el usuario.
 
-### Explicación Del Programa:
+## Explicación Del Programa:
+Este programa solicita al usuario que ingrese un valor y luego calcula el valor de impuestos correspondiente. El programa utiliza una tasa de impuesto del 25%.
 
-### PRIMER PROGRAMA
+## PRIMER PROGRAMA
 
-#### Línea 6: 
+Línea 6:  Esta línea utiliza la función `input` para solicitar al usuario que ingrese un valor. La función `float` se utiliza para convertir la entrada del usuario en un número flotante.
+
+```python
 valor= (float(input("Ingrese EL Valor: ")))
+```
 
-Esta línea utiliza la función input para solicitar al usuario que ingrese un valor. La función float se utiliza para convertir la entrada del usuario en un número flotante.
+Línea 7: Esta línea calcula el valor de los impuestos multiplicando el valor ingresado por el usuario por `0.25 (25%)`.
 
-#### Línea 7: 
+```python
 valor_con_impuestos = (0.25*valor)
+```
 
-Esta línea calcula el valor de los impuestos multiplicando el valor ingresado por el usuario por 0.25 (25%).
+Línea 8: Esta línea utiliza la función `print` para mostrar el valor de los impuestos calculado en la línea anterior.
 
-#### Línea 8: 
+```python
 print("El Valor De Impuestos Es: ", valor_con_impuestos)
+```
 
-Esta línea utiliza la función print para mostrar el valor de los impuestos calculado en la línea anterior.
+Línea 9:  Esta línea utiliza la función `print` para mostrar un mensaje de agradecimiento al usuario.
 
-#### Línea 9: 
+```python
 print ("¡Gracias Por Usar Nuestro Sistema!")
+```
 
-Esta línea utiliza la función print para mostrar un mensaje de agradecimiento al usuario.
+## SEGUNDO PROGRAMA
 
-### SEGUNDO PROGRAMA
+Línea 12: Esta línea utiliza la función `print` para mostrar el valor de los impuestos calculado en tiempo real. La función `float` se utiliza para convertir la entrada del usuario en un número flotante. La expresión `* 0.25` calcula el valor de los impuestos multiplicando el valor ingresado por el usuario por `0.25 (25%)`. La expresión `:.2f` formatea el resultado como un número flotante con dos decimales.
 
-#### Línea 12: 
+```python
 print (f"Los impuestos son: $ {float(input('Ingrese el valor: '))* 0.25:.2f}")
+```
 
-Esta línea utiliza la función print para mostrar el valor de los impuestos calculado en tiempo real. La función float se utiliza para convertir la entrada del usuario en un número flotante. La expresión * 0.25 calcula el valor de los impuestos multiplicando el valor ingresado por el usuario por 0.25 (25%). La expresión :.2f formatea el resultado como un número flotante con dos decimales.
