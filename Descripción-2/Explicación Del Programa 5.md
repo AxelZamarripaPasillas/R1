@@ -1,4 +1,4 @@
-# PROGRAMA 5 DE COMPARACIONES CON "STRING"
+# 5_PROGRAMA DE COMPARACIONES CON "STRING"
 Programa que demuestra el uso de operadores de comparación, `membresía` y `slicing` en Python.
 ## Explicación Del Programa:
 
