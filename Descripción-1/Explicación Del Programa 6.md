@@ -1,4 +1,4 @@
-# PROGRAMA 5 
+# PROGRAMA 6
 Este programa permite calcular el perímetro y el área de un círculo dado su radio. El usuario ingresa el valor del radio y el programa muestra los resultados.
 
 ## Explicación Del Programa
