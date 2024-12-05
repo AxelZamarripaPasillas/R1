@@ -1,18 +1,24 @@
-## Programa 4
-En este programa, se utiliza la función print para mostrar una pregunta al usuario sobre la equivalencia de 250 cm en metros. Luego, se define una variable distancia que almacena la respuesta a la pregunta. Finalmente, se utiliza la función print para mostrar la respuesta.
+# Programa 5
+Programa que muestra la equivalencia entre 250 centímetros y metros.
 
-### Explicación Del Programa:
-#### Línea 5:
+## Explicación Del Programa:
+Este programa lo que hace es mostrar un mensaje que pregunta cuántos metros equivalen 250 centímetros, y luego muestra la respuesta correcta.
+
+Línea 5: Esta línea utiliza la función `Print` para mostrar una pregunta al usuario sobre la equivalencia de 250 cm en metros.
+
+```python
 print ("¿A Cuántos Metros Equivalen 250 cm?")
+```
 
-Esta línea utiliza la función print para mostrar una pregunta al usuario sobre la equivalencia de 250 cm en metros.
+Línea 7: Esta línea define una variable distancia que almacena la respuesta a la pregunta. En este caso, la respuesta es "2.5 m".
 
-#### Línea 7:
+```python
 distancia = ("2.5 m")
+```
 
-Esta línea define una variable distancia que almacena la respuesta a la pregunta. En este caso, la respuesta es "2.5 m".
+Línea 8: Esta línea utiliza la función print para mostrar la respuesta. La variable distancia es utilizada para mostrar la respuesta.
 
-#### Línea 8:
+```python
 print ("250 cm Equivalen a", distancia)
+```
 
-Esta línea utiliza la función print para mostrar la respuesta. La variable distancia es utilizada para mostrar la respuesta.
