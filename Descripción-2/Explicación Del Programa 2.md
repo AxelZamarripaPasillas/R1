@@ -1,4 +1,4 @@
-# PROGRAMA 2 PARA PROBAR LAS COMPUERTAS LÓGICAS AND, OR y NOT
+# PROGRAMA 2 
 Programa que demuestra el funcionamiento de la operación lógica OR y la negación (NOT) en Python.
 
 ### Explicación Del Programa:
