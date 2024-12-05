@@ -1,4 +1,4 @@
-# PROGRAMA 2
+# PROGRAMA 1 QUE MUESTRA TU NOMBRE
 Programa que solicita tu nombre.
 
 ## Explicación Del Programa 
