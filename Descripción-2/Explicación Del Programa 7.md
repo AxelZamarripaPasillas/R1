@@ -1,4 +1,4 @@
-## PROGRAMA 7 DE CONDICIONAL IF
+# 7_PROGRAMA DE CONDICIONAL IF
 Programa que solicita la edad del usuario y determina si puede entrar a un bar según su edad.
 ### Explicación Del Programa:
 Este programa utiliza una estructura de control condicional (if-else) para determinar si el usuario puede entrar a un bar según su edad.
