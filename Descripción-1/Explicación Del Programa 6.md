@@ -26,7 +26,7 @@ Línea 9: Esta línea calcula el área del triángulo utilizando la fórmula `ba
 area = (base*altura)/2
 ```
 
-Línea 11: Esta línea utiliza la función print para mostrar el resultado del cálculo del área del triángulo. La función str se utiliza para convertir el resultado en una cadena de texto que se puede concatenar con el mensaje.
+Línea 11: Esta línea utiliza la función `Print` para mostrar el resultado del cálculo del área del triángulo. La función `str` se utiliza para convertir el resultado en una cadena de texto que se puede concatenar con el mensaje.
 
 ```python
 print ("El Área Del Triángulo Es:" + str(area))
