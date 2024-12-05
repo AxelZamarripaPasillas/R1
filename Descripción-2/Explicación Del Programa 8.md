@@ -11,6 +11,14 @@ calificacion_1 = float(input("Ingresa La Calificación De La Unidad 1: "))
 
 Se repiten las mismas instrucciones para las unidades 2 a 6.
 
+```python
+calificacion_2 = float(input("Ingresa La Calificación De La Unidad 2: "))
+calificacion_3 = float(input("Ingresa La Calificación De La Unidad 3: "))
+calificacion_4 = float(input("Ingresa La Calificación De La Unidad 4: "))
+calificacion_5 = float(input("Ingresa La Calificación De La Unidad 5: "))
+calificacion_6 = float(input("Ingresa La Calificación De La Unidad 6: "))
+```
+
 Línea 12:  Esta línea calcula el promedio final de las calificaciones ingresadas. Se suma el valor de cada variable calificacion_ y se divide por 6.
 
 ```python
