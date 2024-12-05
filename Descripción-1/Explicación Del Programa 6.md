@@ -1,28 +1,33 @@
-## PROGRAMA 5 QUE PERMITE CALCULAR EL ÁREA DE UN TRIÁNGULO
-En este programa, se utiliza la fórmula para calcular el área de un triángulo, que es base * altura / 2. El programa solicita al usuario que ingrese la base y la altura del triángulo, y luego calcula y muestra el área del triángulo.
-### Explicación Del Programa
-#### Línea 5:
+# PROGRAMA 5 
+Este programa permite calcular el perímetro y el área de un círculo dado su radio. El usuario ingresa el valor del radio y el programa muestra los resultados.
+
+## Explicación Del Programa
+Línea 5: En esta línea se va a imprimir el mensaje "Solicita La Base y La Altura De Un Triángulo"
+
+```python
 print ("Solicita La Base y La Altura De Un Triángulo")
+```
 
-Esta línea utiliza la función print para mostrar un mensaje que solicita al usuario que ingrese la base y la altura del triángulo.
+Línea 7: Esta línea utiliza la función `Input` para solicitar al usuario que ingrese la base del triángulo. La función `Float` se utiliza para convertir la entrada del usuario en un número flotante.
 
-#### Línea 7:
+```python
 base = float(input("Ingrese La Base Del Triángulo: "))
+```
 
-Esta línea utiliza la función input para solicitar al usuario que ingrese la base del triángulo. La función float se utiliza para convertir la entrada del usuario en un número flotante.
+Línea 8: Esta línea utiliza la función `Input` para solicitar al usuario que ingrese la altura del triángulo. La función `Float` se utiliza para convertir la entrada del usuario en un número flotante.
 
-#### Línea 8:
+```python
 altura = float (input("Ingrese La Altura Del Triángulo: "))
+```
 
-Esta línea utiliza la función input para solicitar al usuario que ingrese la altura del triángulo. La función float se utiliza para convertir la entrada del usuario en un número flotante.
+Línea 9: Esta línea calcula el área del triángulo utilizando la fórmula `base * altura / 2`.
 
-#### Línea 9:
-
+```python
 area = (base*altura)/2
+```
 
-Esta línea calcula el área del triángulo utilizando la fórmula base * altura / 2.
+Línea 11: Esta línea utiliza la función print para mostrar el resultado del cálculo del área del triángulo. La función str se utiliza para convertir el resultado en una cadena de texto que se puede concatenar con el mensaje.
 
-Línea 11:
+```python
 print ("El Área Del Triángulo Es:" + str(area))
-
-Esta línea utiliza la función print para mostrar el resultado del cálculo del área del triángulo. La función str se utiliza para convertir el resultado en una cadena de texto que se puede concatenar con el mensaje.
+```
