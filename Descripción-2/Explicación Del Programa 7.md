@@ -1,31 +1,37 @@
 ## PROGRAMA DE CONDICIONAL IF
-En este programa, se muestra cómo utilizar la sentencia condicional if para tomar decisiones basadas en una condición. Este programa solicita al usuario que ingrese su edad y, dependiendo de si la edad es mayor o igual a 18, imprime un mensaje que indica si puede o no entrar al bar.
-
+Programa que solicita la edad del usuario y determina si puede entrar a un bar según su edad.
 ### Explicación Del Programa:
+Este programa utiliza una estructura de control condicional (if-else) para determinar si el usuario puede entrar a un bar según su edad.
 
-#### Línea 5: 
+Línea 5: Esta línea utiliza la función input() para solicitar al usuario que ingrese su edad. La función int() se utiliza para convertir la entrada del usuario en un número entero. El resultado se asigna a la variable "edad".
+
+```python
 edad = int (input("INGRESA TU EDAD: "))
+```
 
-Esta línea utiliza la función input para solicitar al usuario que ingrese su edad. La función int se utiliza para convertir la entrada del usuario en un número entero. El resultado se asigna a la variable edad.
+Línea 7:  Esta línea utiliza la sentencia condicional `if` para verificar si la edad del usuario es mayor o igual a 18. Si la condición es verdadera, se ejecuta el código que se encuentra dentro del bloque `if`.
 
-#### Línea 7: 
+```python
 if edad >=18:
+```
 
-Esta línea utiliza la sentencia condicional if para verificar si la edad del usuario es mayor o igual a 18. Si la condición es verdadera, se ejecuta el código que se encuentra dentro del bloque if.
+Línea 8: Esta línea se ejecuta si la condición edad `>=18` es verdadera. Imprime el mensaje "Puede Entrar Al Bar" en la pantalla.
 
-#### Línea 8: 
+```python
 print("Puede Entrar Al Bar")
+```
 
-Esta línea se ejecuta si la condición edad >=18 es verdadera. Imprime el mensaje "Puede Entrar Al Bar" en la pantalla.
+Línea 9: Esta línea utiliza la sentencia `else` para especificar el código que se ejecutará si la condición edad `>=18` es falsa.
 
-#### Línea 9: 
+```python
 else:
+```
 
-Esta línea utiliza la sentencia else para especificar el código que se ejecutará si la condición edad >=18 es falsa.
+Línea 10: Esta línea se ejecuta si la condición edad `>=18` es falsa. Imprime el mensaje "No Puede Entrar Al Bar" en la pantalla.
 
-#### Línea 10:
+```python
 print("No Puede Entrar Al Bar")
+```
 
-Esta línea se ejecuta si la condición edad >=18 es falsa. Imprime el mensaje "No Puede Entrar Al Bar" en la pantalla.
 
 
