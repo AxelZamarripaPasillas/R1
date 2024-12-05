@@ -1,4 +1,4 @@
-## PROGRAMA 8 QUE PERMITE CONVERTIR DÍAS A HORAS, MINUTOS Y MESES
+## PROGRAMA 9
 En este programa, se permite al usuario convertir un número de días a horas, minutos y meses. El programa solicita al usuario que ingrese el número de días y luego realiza las conversiones necesarias para mostrar los resultados.
 ### Explicación Del Programa:
 
