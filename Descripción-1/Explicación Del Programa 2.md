@@ -1,9 +1,10 @@
-# PROGRAMA 2.
+#PROGRAMA 2
 Programa que solicita tu nombre y despues te imprime un saludo personalizado.
 
 ## Explicación Del Programa
+
 La función '''input''' nos permite ingresar datos desde el teclado y lo almacena en una variable, en este caso, la variable nombre. La definición de la función en la línea 5 es: 
-''' Python
+``` Python
 nombre = input ("nombre:") 
 
 
