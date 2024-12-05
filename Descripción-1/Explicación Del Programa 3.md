@@ -1,4 +1,4 @@
-# 3_PROGRAMA CONCATENACIÓN DE VARIAS CADENAS  DE TEXTO (str.) 
+# 3_PROGRAMA QUE MUESTRA EL NUMERO DE DÍAS DE UNA SEMANA
 Programa que muestra el número de días que tiene una semana.
 
 ## Explicación Del Programa
