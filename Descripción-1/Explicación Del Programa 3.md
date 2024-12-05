@@ -1,13 +1,11 @@
-# PROGRAMA 3
+# 3_PROGRAMA CONCATENACIÓN DE VARIAS CADENAS  DE TEXTO (str.) 
 Programa que muestra el número de días que tiene una semana.
 
 ## Explicación Del Programa
 Este programa lo que hace es mostrar un mensaje que pregunta cuántos días tiene la semana, y luego muestra la respuesta correcta.
 
 ### Funciones Utilizadas
-En este programa, se utiliza solo la siguiente función: `Print`
-
-
+En este programa, se utiliza solo la siguiente función: `Print()`
 
 ### Definición De Las Variables y Funciones
 A continuación, se presentan las definiciones de las variables y funciones utilizadas en el programa:
