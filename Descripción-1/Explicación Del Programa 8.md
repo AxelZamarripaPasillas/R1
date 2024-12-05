@@ -56,8 +56,9 @@ Línea 13: Esta línea utiliza la función `Print` para mostrar el resultado de 
 print ("El valor De La Multiplicación Es:"+ str(multiplicacion))
 ```
 
+Línea 14: Esta línea utiliza la función `Print` para mostrar el resultado de la división. La función `str` se utiliza para convertir el resultado en una cadena de texto que se puede concatenar con el mensaje.
 
-#### Línea 14: Esta línea utiliza la función print para mostrar el resultado de la división. La función str se utiliza para convertir el resultado en una cadena de texto que se puede concatenar con el mensaje.
+```python
 print ("El valor De La División Es:"+ str(division))
-
+```
 
