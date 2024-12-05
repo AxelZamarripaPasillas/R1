@@ -2,7 +2,7 @@
 Programa que solicita tu nombre y despues te imprime un saludo personalizado.
 
 ## Explicación Del Programa
-Este programa lo que hace es pedirle al usuario que ingrese su nombre, y después mostrar un saludo con su nombre. Para ello se utilizan las funciones “INPUT” y “PRINT”  
+Este programa lo que hace es pedirle al usuario que ingrese su nombre, y después mostrar un saludo con su nombre. Para ello se utilizan las funciones `Input` y `Print`  
 
 ```python
 La función `Input` nos permite ingresar datos desde el teclado y lo almacenarla en una variable, en este caso, la variable “nombre”.
