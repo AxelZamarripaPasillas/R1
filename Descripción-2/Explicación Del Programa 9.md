@@ -1,4 +1,4 @@
-# PROGRAMA 9 DE CONDICIONAL IF
+# 9_PROGRAMA DE CONDICIONAL IF
 Programa que calcula el total a pagar por una cantidad de artículos comprados, aplicando un descuento si la cantidad es mayor a 3.
 ## Explicación Del Programa:
 Este programa solicita al usuario que ingrese la cantidad de artículos comprados y calcula el total a pagar según la siguiente lógica:
