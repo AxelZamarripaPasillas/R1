@@ -1,7 +1,9 @@
 # Programa 3.
-En este programa, se utiliza la función print para mostrar una pregunta al usuario sobre el nombre de una figura de tres lados. Luego, se utiliza la función input para obtener la respuesta del usuario y almacenarla en la variable lados. Finalmente, se utiliza la función print para mostrar la respuesta del usuario.
+Programa que solicita el nombre de una figura geométrica de tres lados y luego lo muestra en pantalla.
 
 ## Explicación Del Programa: 
+Este programa lo que hace es solicitar al usuario que ingrese el nombre de una figura geométrica de tres lados, y luego muestra el nombre ingresado en pantalla.
+
 Línea 1: En esta línea utiliza la función `Print` para mostrar la pregunta en la pantalla. En este caso pregunta ¿Cuál Es El Nombre De La Figura De Tres Lados?
 
 ```python
