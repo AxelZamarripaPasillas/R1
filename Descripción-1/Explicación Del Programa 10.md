@@ -1,4 +1,4 @@
-# PROGRAMA 10 PARA PROBAR SECUENCIAS DE ESCAPE Y UNICODE
+# 10_PROGRAMA PARA PROBAR SECUENCIAS DE ESCAPE Y UNICODE
 En este programa, se prueban las secuencias de escape y los emojis de Unicode en Python.
 
 ## Explicación Del Programa:
