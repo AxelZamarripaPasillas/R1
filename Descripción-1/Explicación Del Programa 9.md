@@ -45,8 +45,8 @@ Línea 12: Esta línea utiliza la función `print` para mostrar el número de mi
 print ("El Numero De Minutos Es: " + str( minutos ))
 ```
 
+Línea 13:  Esta línea utiliza la función `print` para mostrar el número de meses calculado. La función `str` se utiliza para convertir el número de meses en una cadena de texto que se puede concatenar con el mensaje.
 
-Línea 13: 
-Esta línea utiliza la función print para mostrar el número de meses calculado. La función str se utiliza para convertir el número de meses en una cadena de texto que se puede concatenar con el mensaje.
+```python
 print ("El Numero De Meses Es: " + str(meses))
-
+```
