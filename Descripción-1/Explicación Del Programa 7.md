@@ -1,5 +1,5 @@
 # PROGRAMA 7
-Este programa permite calcular el perímetro y el área de un círculo dado su radio. El programa solicita al usuario que ingrese el radio del círculo y luego calcula y muestra el perímetro y el área del círculo.
+Este programa de cálculo geométrico permite determinar el perímetro y el área de un círculo cuando se conoce su radio. Solicita al usuario que ingrese el radio del círculo, realiza los cálculos correspondientes y muestra en pantalla el perímetro y el área del círculo.
 ## Explicación Del Programa: 
 
 Línea 5: Esta línea utiliza la función `Print` para mostrar un mensaje que describe el propósito del programa.
