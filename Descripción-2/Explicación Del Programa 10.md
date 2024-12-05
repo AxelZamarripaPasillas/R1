@@ -1,4 +1,4 @@
-# 10_PROGRAMA QUE PERMITE REVISAR SI PUEDES VER UNA PELÍCULA EN NETFLIX
+# 10_PROGRAMA QUE PERMITE REVISAR SI PUEDES VER UNA PELÍCULA EN NETFLIX 
 Programa que determina si un usuario puede ver una película en Netflix según su edad y si ha comprado la película.
 ## Explicación Del Programa:
 Este programa solicita al usuario que ingrese su edad y si ha comprado la película. Luego, utiliza una expresión lógica para determinar si el usuario puede ver la película.
