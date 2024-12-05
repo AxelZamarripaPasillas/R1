@@ -1,4 +1,4 @@
-# PROGRAMA 11 QUE MUESTRA LA LÓGICA BOOLEANA (==, !=, >, <, <=, >=)
+# 10_PROGRAMA QUE MUESTRA LA LÓGICA BOOLEANA (==, !=, >, <, <=, >=)
 En este programa, se muestra la lógica booleana en Python utilizando los operadores ==, !=, >, <, <= y >=.
 ## Explicación Del Programa:
 
