@@ -5,7 +5,7 @@ En este programa, se prueban las secuencias de escape y los emojis de Unicode en
 ### Secuencias de Escape:
 Las secuencias de escape son caracteres especiales que se utilizan para representar caracteres que no se pueden escribir directamente en el código. A continuación, se presentan las secuencias de escape utilizadas en el programa:
 
-Línea 6:Esta línea utiliza la secuencia de escape `\t` para insertar un tabulador entre las palabras "Hola" y "Mundo".
+Línea 6: Esta línea utiliza la secuencia de escape `\t` para insertar un tabulador entre las palabras "Hola" y "Mundo".
 
 ```python
 print ("Hola\tMundo")
