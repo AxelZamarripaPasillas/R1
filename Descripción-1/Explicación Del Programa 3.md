@@ -1,25 +1,30 @@
-## PROGRAMA 3. 
-Programa que muestra el número de días de la semana.
+# PROGRAMA 3
+Programa que muestra el número de días que tiene una semana.
+
 ## Explicación Del Programa
+Este programa lo que hace es mostrar un mensaje que pregunta cuántos días tiene la semana, y luego muestra la respuesta correcta.
 
-1) En la línea 5 se imprime una pregunta al usuario sobre el número de días de la semana.
+### Funciones Utilizadas
+En este programa, se utiliza solo la siguiente función: `Print`
 
-'''Python
+
+
+### Definición De Las Variables y Funciones
+A continuación, se presentan las definiciones de las variables y funciones utilizadas en el programa:
+1. Esta línea imprime un mensaje que pregunta cuántos días tiene la semana.
+
+```python
 print ("¿Cuántos Días Tiene La Semana?")
-'''
+```
 
-Esta línea utiliza la función 'print' para mostrar el texto en la pantalla.
+2. Esta línea define una variable llamada dias_semana y le asigna el valor "7 días".
 
-2)  En la línea 7 se define una variable 'dias_semana' con el valor "7 días".
-
-'''Python
+```python
 dias_semana = ("7 días")
-'''
+```
 
-Esta línea utiliza la asignación de valor para almacenar el texto en la variable dias_semana.
+3. Esta línea imprime un mensaje que muestra la respuesta correcta, utilizando la variable dias_semana para mostrar el valor "7 días".
 
-3)  En la línea 8 se imprime el número de días de la semana utilizando la variable dias_semana.
-
-print("El numero de días en una semana son", dias_semana)
-
-Esta línea utiliza la función print para mostrar el texto y el valor de la variable dias_semana en la pantalla.
+```python
+print ("El numero de días en una semana son", dias_semana): 
+```
