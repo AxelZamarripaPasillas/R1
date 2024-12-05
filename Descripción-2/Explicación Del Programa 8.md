@@ -1,4 +1,4 @@
-# PROGRAMA DE CONDICIONAL IF
+# PROGRAMA 8 DE CONDICIONAL IF
 Programa que calcula el promedio final de un estudiante en base a las calificaciones de 6 unidades y determina si aprobó o reprobó.
 ## Explicación Del Programa:
 Este programa solicita al usuario que ingrese las calificaciones de 6 unidades, calcula el promedio final y determina si el estudiante aprobó o reprobó según un umbral de 70 puntos.
