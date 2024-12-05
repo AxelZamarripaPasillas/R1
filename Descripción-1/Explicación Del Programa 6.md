@@ -1,4 +1,4 @@
-# PROGRAMA 6 QUE PERMITE CALCULAR EL ÁREA DE UN TRIÁNGULO 
+# PROGRAMA_6 QUE PERMITE CALCULAR EL ÁREA DE UN TRIÁNGULO 
 Este programa permite calcular el perímetro y el área de un círculo dado su radio. El usuario ingresa el valor del radio y el programa muestra los resultados.
 
 ## Explicación Del Programa
