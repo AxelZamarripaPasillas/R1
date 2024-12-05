@@ -1,4 +1,4 @@
-## PROGRAMA 11 PARA PROBAR LAS COMPUERTAS LÓGICAS AND, OR Y NOT
+# 12_PROGRAMA PARA PROBAR LAS COMPUERTAS LÓGICAS AND, OR Y NOT
 En este programa, se prueban las compuertas lógicas AND, OR y NOT en Python.
 ### Explicación Del Programa:
 #### Compuerta OR
