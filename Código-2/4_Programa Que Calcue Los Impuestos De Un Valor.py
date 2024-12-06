@@ -1,8 +1,4 @@
-# PROGRAMA QUE CALCULA LOS IMPUESTOS DE UN VALOR 
-# Fecha:20241022.
-# Elaborado Por: Axel Zamarripa Pasillas.
-
-#PRIMER PROGRAMA
+# PRIMER PROGRAMA
 valor= (float(input("Ingrese EL Valor: ")))
 valor_con_impuestos = (0.25*valor) 
 print("El Valor De Impuestos Es:  ", valor_con_impuestos)
