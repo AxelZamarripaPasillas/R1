@@ -29,7 +29,7 @@ encuentra en la lista.
 print ("Javier" in nombres)  # False
 ```
 
-Línea 5: Esta línea verifica si el elemento "Jose" no se encuentra en la lista "nombres" utilizando el operador `not in`. La comparación devuelve True porque el elemento "Jose" no se 
+Línea 5: Esta línea verifica si el elemento "Jose" no se encuentra en la lista "nombres" utilizando el operador `not in`. La comparación devuelve `True` porque el elemento "Jose" no se 
 encuentra en la lista.
 
 ```python
