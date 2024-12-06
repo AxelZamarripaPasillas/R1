@@ -1,7 +1,3 @@
-# COMPARACIONES CON "STRING"
-# Fecha:20241024.
-# Elaborado Por: Axel Zamarripa Pasillas.
-
 #Comparación
 print ("perro" == "perro") # True
 print ("perro" != "gato") # True
