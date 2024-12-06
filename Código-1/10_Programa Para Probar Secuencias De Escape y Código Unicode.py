@@ -1,7 +1,3 @@
-# PROGRAMA PARA PROBAR SECUENCIAS DE ESCAPE Y UNICODE
-# Fecha:20241016.
-# Elaborado Por: Axel Zamarripa Pasillas.
-
 #Secuencias De Escape
 print ("Hola\tMundo")
 print ("Hola\\Mundo")
