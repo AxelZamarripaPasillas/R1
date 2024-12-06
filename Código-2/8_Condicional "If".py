@@ -1,7 +1,3 @@
-# CONDICIONAL IF
-# Fecha:20241024.
-# Elaborado Por: Axel Zamarripa Pasillas.
-
 calificacion_1 = float(input("Ingresa La Calificación De La Unidad 1: "))
 calificacion_2 = float(input("Ingresa La Calificación De La Unidad 2: "))
 calificacion_3 = float(input("Ingresa La Calificación De La Unidad 3: "))
