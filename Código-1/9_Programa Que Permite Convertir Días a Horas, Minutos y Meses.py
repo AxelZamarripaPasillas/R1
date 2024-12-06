@@ -1,7 +1,3 @@
-# PROGRAMA QUE PERMTE CONVERTIR DÍAS A HORAS, MINUTOS Y MESES
-# Fecha:20241015.
-# Elaborado Por: Axel Zamarripa Pasillas.
-
 dias = int(input("Solicita El Numero De Días: "))
 horas = int ((dias*24))
 minutos = int ((horas*60))
