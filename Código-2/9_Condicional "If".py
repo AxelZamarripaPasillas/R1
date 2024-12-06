@@ -1,6 +1,3 @@
-# CONDICIONAL IF.
-# Fecha:20241025.
-# Elaborado Por: Axel Zamarripa Pasillas.
 cantidad = int (input("¿Cuántos Artículos Compró?"))
 
 if cantidad >3:
