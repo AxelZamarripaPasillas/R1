@@ -1,7 +1,3 @@
-# Comparadores
-# Fecha: 20241025
-# Elaborado Por: Axel Zamarripa Pasillas.
-
 n1 = (int(input("Ingresa El Primer Número: ")))
 n2 = (int(input("Ingresa El Segundo Número: ")))
 
