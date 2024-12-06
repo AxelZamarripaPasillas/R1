@@ -1,4 +1,4 @@
-# 1_PROGRAMA QUE DEMUESTRA LA CONVERSIÓN DE TIPOS DE DATOS
+# 2_PROGRAMA QUE DEMUESTRA LA CONVERSIÓN DE TIPOS DE DATOS
 Este programa solicita al usuario que ingrese su edad y luego muestra el tipo de dato de la variable en diferentes momentos, demostrando la conversión de tipos de datos.
 
 ## Explicación:
@@ -15,7 +15,7 @@ Línea 2: Esta línea imprime el tipo de dato de la variable ‘variable’ util
 print (type(variable))
 ```
 
-Línea 3: Esta línea convierte la variable variable` a tipo entero utilizando la función `int()`.
+Línea 3: Esta línea convierte la variable a tipo entero utilizando la función `int()`.
 
 ```python
 variable = int(variable)
