@@ -1,7 +1,7 @@
 # 6_PROGRAMA QUE MUESTRA EJEMPLOS DE LISTAS EN PYTHON
 Este programa muestra ejemplos de listas en Python, incluyendo listas de enteros, cadenas de texto, booleanos y una lista vacía.
 
-##  Exeplicación: 
+##  Explicación: 
 Línea 1: Esta línea imprime una lista de enteros utilizando la función `print()`.
 
 ### Lista De Enteros
