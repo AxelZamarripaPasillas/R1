@@ -1,7 +1,3 @@
-# PROGRAMA QUE PERIMITE REVISAR SI PUEDES VER UNA PELÍCULA EN NETFLIX
-# FECHA:20241025
-# NOMBRE: Axel Zamarripa Pasillas.
-
 # Solución 1. If Anidados
 edad = int(input("¿Cuántos Años Tienes"))
 comprar= int(input("¿Compraste La Película? \n0-NO\n1-SI\n"))
