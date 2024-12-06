@@ -1,6 +1,7 @@
 # 1_PROGRAMA QUE DETERMINA EL TIPO DE MASCOTA
 Este programa solicita al usuario que ingrese el tipo de mascota que tiene y luego imprime un mensaje indicando si la mascota es un perro, un gato o un tipo de mascota desconocido.
 
+## Explicación Del Programa: 
 Línea 1: Esta línea utiliza la función `input()` para solicitar al usuario que ingrese el tipo de mascota que tiene. La entrada del usuario se almacena en la variable `mascota`.
 
 ```python
