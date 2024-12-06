@@ -1,7 +1,3 @@
-# Listas
-# Fecha: 20241030
-# Elaborado Por: Axel Zamarripa Pasillas.
-
 # Lista De Enteros
 print ([40, 20, 35])
 
