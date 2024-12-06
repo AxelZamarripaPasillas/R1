@@ -1,7 +1,3 @@
-# Programa Para Probar Las Compuertas Lógicas AND, OR y NOT
-# Fecha:20241018.
-# Elaborado Por: Axel Zamarripa Pasillas.
-
 print ("Compuerta OR")
 print (False or False) #False
 print (False or True) #True
