@@ -1,70 +1,83 @@
 # 12_PROGRAMA PARA PROBAR LAS COMPUERTAS LÓGICAS AND, OR Y NOT
 En este programa, se prueban las compuertas lógicas AND, OR y NOT en Python.
-### Explicación Del Programa:
-#### Compuerta OR
-#### Línea 5:
+## Explicación Del Programa:
+### Compuerta OR
+
+Línea 5: Esta línea muestra un título que indica que se está trabajando con la compuerta `OR`.
+```python
 print ("Compuerta OR")
+```
 
-Esta línea muestra un título que indica que se está trabajando con la compuerta OR.
+Línea 6: Esta línea evalúa la expresión `False or False` y muestra el resultado, que es `False`.
 
-#### Línea 6:
+```python
 print (False or False) #False
+```
 
-Esta línea evalúa la expresión False or False y muestra el resultado, que es False.
+Línea 7: Esta línea evalúa la expresión `False or True` y muestra el resultado, que es `True`.
 
-#### Línea 7:
+```python
 print (False or True) #True
+```
 
-Esta línea evalúa la expresión False or True y muestra el resultado, que es True.
+Línea 8: Esta línea evalúa la expresión `True or False` y muestra el resultado, que es `True`.
 
-#### Línea 8:
+```python
 print (True or False) #True
+```
 
-Esta línea evalúa la expresión True or False y muestra el resultado, que es True.
+#### Línea 9: Esta línea evalúa la expresión True or True y muestra el resultado, que es True.
 
-#### Línea 9:
+```python
 print (True or True) #True
+```
 
-Esta línea evalúa la expresión True or True y muestra el resultado, que es True.
+### Compuerta AND:
+Línea 11: Esta línea muestra un título que indica que se está trabajando con la compuerta `AND`.
 
-#### Compuerta AND:
-#### Línea 11:
+```python
 print ("\n Compuerta AND")
+```
 
-Esta línea muestra un título que indica que se está trabajando con la compuerta AND.
+Línea 12: Esta línea evalúa la expresión `False and False` y muestra el resultado, que es `False`.
 
-#### Línea 12:
+```python
 print (False and False) #False
+```
+Línea 13: Esta línea evalúa la expresión `False and True` y muestra el resultado, que es `False`.
 
-Esta línea evalúa la expresión False and False y muestra el resultado, que es False.
-
-#### Línea 13:
+```python
 print (False and True) #False
+```
 
-Esta línea evalúa la expresión False and True y muestra el resultado, que es False.
+Línea 14: Esta línea evalúa la expresión True and False y muestra el resultado, que es False.
 
-#### Línea 14:
+```python
 print (True and False) #False
+```
 
-Esta línea evalúa la expresión True and False y muestra el resultado, que es False.
+Línea 15:  Esta línea evalúa la expresión `True and True` y muestra el resultado, que es `True`.
 
-#### Línea 15:
+```python
 print (True and True) #True
+```
 
-Esta línea evalúa la expresión True and True y muestra el resultado, que es True.
+### Compuerta NOT:
+Línea 17: Esta línea muestra un título que indica que se está trabajando con la compuerta `NOT`.
 
-#### Compuerta NOT:
-#### Línea 17:
+```python
 print ("\n Compuerta NOT")
+```
 
-Esta línea muestra un título que indica que se está trabajando con la compuerta NOT.
+Línea 18: Esta línea evalúa la expresión `not(False)` y muestra el resultado, que es `True`.
 
-#### Línea 18:
+```python
 print (not(False)) #True
+```
 
-Esta línea evalúa la expresión not(False) y muestra el resultado, que es True.
+Línea 19: Esta línea evalúa la expresión `not(True)` y muestra el resultado, que es `False`.
 
-#### Línea 19:
+```python
 print (not(True)) #False
+```
 
-Esta línea evalúa la expresión not(True) y muestra el resultado, que es False.
