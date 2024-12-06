@@ -1,4 +1,4 @@
-# 2_PROGRAMA QUE DEMUESTRA LA CONVERSIÓN DE TIPOS DE DATOS
+# 2_IDENTIFICACIÓN DE TIPOS DE DATOS STR, INT Y FLOAT.
 Este programa solicita al usuario que ingrese su edad y luego muestra el tipo de dato de la variable en diferentes momentos, demostrando la conversión de tipos de datos.
 
 ## Explicación:
