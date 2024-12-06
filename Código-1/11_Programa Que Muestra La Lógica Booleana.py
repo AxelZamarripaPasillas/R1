@@ -1,7 +1,3 @@
-# PROGRAMA QUE MUESTRA LA LÓGICA BOOLEANA (==, !=, >, <, <=, >=)
-# Fecha:20241018
-# Elaborado Por: Axel Zamarripa Pasillas.
-
 print ("----Operador IGUAL (==)")
 
 print (5==5) #True
