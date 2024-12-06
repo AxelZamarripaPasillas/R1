@@ -1,7 +1,3 @@
-# Programa Que Calcule Los Impuestos Que Debe Pagar Un Empleado 
-# Fecha: 20241029
-# Elaborado Por: Axel Zamarripa Pasillas.
-
 ingresos = float(input("¿Cuáles Son Tus Ingresos? "))
 
 if ingresos <= 1000.0:
