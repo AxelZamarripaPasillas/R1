@@ -1,7 +1,3 @@
-# Un programa Que Cálcule El Nivel De Desempeño De Un Estudiante Respecto Con Su Calificación Dada Por El Estudiante
-# Fecha: 20241029
-# Elaborado Por: Axel Zamarripa Pasillas.
-
 cal = float(input("¿Cuál Es Tu Calificación Final? "))
 
 if cal <= 60.0:
