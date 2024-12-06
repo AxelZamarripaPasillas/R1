@@ -1,6 +1,3 @@
-# PROGRAMA QUE PERMTE HACER OPERACIONES BASICAS (+, -, * y /)
-# Fecha:20241015.
-# Elaborado Por: Axel Zamarripa Pasillas.
 num1 = int(input("Ingresa El Primer Numero:"))
 num2 = int(input("Ingresa El Segundo Numero:"))
 suma = num1 + num2
