@@ -1,7 +1,3 @@
-# Mascotas
-# FECHA: 20241205
-# ELABORADO POR: Axel Zamarripa Pasillas.
-
 mascota = input ("Ingresa El Tipo De Mascota Que Tienes: ")
 if "perro" in mascota:                                              # Pregunta si la palabra "perro" este dentro de mascota
                                                                     # De la variable "mascota"
