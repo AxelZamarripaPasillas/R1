@@ -1,4 +1,4 @@
-# THE SUM PATTERN
+# 5_THE SUM PATTERN
 Este patrón se utiliza para calcular la suma de una serie de números.
 ## Explicación: 
 Línea 1: Esta línea crea una lista llamada "numeros" que contiene cuatro elementos: 100, 200, 300 y 400.
