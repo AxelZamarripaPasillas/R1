@@ -1,5 +1,5 @@
 # 12_PROGRAMA QUE MUESTRA EL USO DEL MÉTODO POP EN LISTAS
-## Explicación:
+## Explicación Del Programa: 
 Este programa muestra cómo se puede eliminar y devolver un elemento de una lista utilizando el `método pop`.
 
 Línea 1: Esta línea crea una lista llamada "frutas" que contiene tres elementos: "Manzana", "Platano" y "Pera". La lista se define utilizando corchetes `[]` y los elementos se separan 
