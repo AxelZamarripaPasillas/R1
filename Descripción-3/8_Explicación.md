@@ -1,6 +1,6 @@
 # 8_PROGRAMA QUE MUESTRA OPERACIONES CON LISTAS
 Este programa muestra ejemplos de cómo acceder a elementos individuales en listas utilizando indexing y subscripting.
-
+## Explicación Del Programa: 
 Línea 1: Esta línea imprime un título que indica que se van a mostrar ejemplos de indexing.
 
 ```python
