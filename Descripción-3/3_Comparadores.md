@@ -1,6 +1,6 @@
 # 3_PROGRAMA QUE COMPARA DOS NÚMEROS
 Este programa solicita al usuario que ingrese dos números y luego compara los números para determinar si el primer número es mayor, igual o menor que el segundo número.
-
+## Explicación Del Programa: 
 Línea 1-2: Esta sección utiliza la función `input()` para solicitar al usuario que ingrese dos números. La entrada del usuario se almacena en las variables `n1` y `n2` y 
 se convierte a tipo entero utilizando la función `int()`.
 
