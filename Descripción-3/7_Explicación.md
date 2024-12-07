@@ -1,6 +1,6 @@
 # 7_PROGRAMA QUE MUESTRA EJEMPLOS DE LISTAS Y ACCESO A ELEMENTOS EN PYTHON
 Este programa muestra ejemplos de listas en Python, incluyendo listas de enteros, booleanos y cadenas de texto. También muestra cómo acceder a elementos individuales dentro de las listas.
-## Explicación:
+## Explicación Del Programa: 
 
 Línea 1-5: Esta sección crea una lista de enteros llamada "enteros" y muestra cómo acceder a sus elementos.
 
