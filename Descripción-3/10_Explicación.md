@@ -1,6 +1,6 @@
 # 10_PROGRAMA QUE MUESTRA LA COMPARACIÓN DE ELEMENTOS EN LISTAS
 Este programa muestra cómo se pueden comparar elementos en listas en Python utilizando los operadores "in" y "not in".
-
+## Explicación Del Programa: 
 Línea 1: Esta línea crea una lista llamada "nombres" que contiene tres elementos: "Choto", "Emiliano" y "Luis". La lista se define utilizando corchetes `[]` y los elementos se separan 
 con comas.
 
