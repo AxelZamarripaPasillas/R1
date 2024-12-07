@@ -1,7 +1,6 @@
 # 5_PROGRAMA QUE CALCULA EL NIVEL DE DESEMPEÑO DE UN ESTUDIANTE
 Este programa solicita al usuario que ingrese su calificación final y luego calcula el nivel de desempeño del estudiante según una escala determinada.
-
-## Explicación:
+## Explicación Del Programa: 
 Línea 1: Esta línea utiliza la función `input()` para solicitar al usuario que ingrese su calificación final. La entrada del usuario se almacena en la variable `cal`
 y se convierte a tipo flotante utilizando la función `float()`.
 
