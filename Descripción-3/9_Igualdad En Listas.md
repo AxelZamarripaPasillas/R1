@@ -1,6 +1,6 @@
 # 9_PROGRAMA QUE MUESTRA LA COMPARACIÓN DE LISTAS EN PYTHON
 Este programa muestra cómo se pueden comparar listas en Python utilizando los operadores de igualdad y desigualdad.
-
+## Explicación Del Programa: 
 Línea 1: Esta línea crea una lista llamada `puntos` que contiene tres elementos: 10, 30 y 20. La lista se define utilizando corchetes `[]` y los elementos se separan con comas.
 
 ```python
