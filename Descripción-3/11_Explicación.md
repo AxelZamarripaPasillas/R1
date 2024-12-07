@@ -1,7 +1,7 @@
 # 11_PROGRAMA QUE MUESTRA EL USO DEL MÉTODO APPEND EN LISTAS
 Este programa muestra cómo se puede agregar un nuevo elemento a una lista utilizando el método append.
 
-## Explicación:
+## Explicación Del Programa: 
 Línea 1: Esta línea crea una lista llamada "colores" que contiene dos elementos: "rojo" y "azul". La lista se define utilizando corchetes `[]` y los elementos se separan con comas.
 
 ```python
