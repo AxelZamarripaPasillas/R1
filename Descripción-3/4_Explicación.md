@@ -1,7 +1,7 @@
 # 4_PROGRAMA QUE CALCULE LOS IMPUESTOS QUE DEBE PAGAR UN EMPLEADO
 Este programa solicita al usuario que ingrese sus ingresos y luego calcula el salario final después de impuestos, según una escala de impuestos determinada.
 
-## Explicación: 
+## Explicación Del Programa: 
 Línea 1: Esta línea utiliza la función `input()` para solicitar al usuario que ingrese sus ingresos. La entrada del usuario se almacena en la variable `ingresos` y se convierte 
 a tipo flotante utilizando la función `float()`.
 
